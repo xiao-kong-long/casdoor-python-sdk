@@ -12,8 +12,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-import datetime
 import unittest
+import datetime
 
 from src.casdoor import CasdoorSDK
 from src.casdoor.adapter import Adapter
